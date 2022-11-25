@@ -1,0 +1,3 @@
+rootProject.name = "一个影视"
+include ':app'
+include ':player'
